@@ -1,6 +1,6 @@
 # astrbot_plugin_mc_bridge_v2 · AstrBot 侧插件
 
-MC服务器与 AstrBot 的桥接插件（v2），配合 Mod 端 [`astrbot-bridge-2.0.0.jar`](../) 使用。
+AstrBot 端插件（v2）。配套 Mod（服务端，Forge 1.12.2）在另一个仓库：[88514205-oss/mc-bridge](https://github.com/88514205-oss/mc-bridge)（下载 `astrbot-bridge-2.0.0.jar`）。
 
 ## 安装
 
